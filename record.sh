@@ -51,7 +51,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "上傳影片到 Google Drive..."
-gdrive upload "output_timelapse.mp4"
+./gdrive files upload "output_timelapse.mp4"
 
 echo "清理臨時文件..."
 rm "output.mp4"

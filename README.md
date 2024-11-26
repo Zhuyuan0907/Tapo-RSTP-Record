@@ -49,4 +49,4 @@ Curl + X，按Y，按下Enter 退出編輯模式
    ```
 
 # 運行成果
-![image](https://github.com/user-attachments/assets/36e9d983-3ae6-4c83-b3e8-c87b3e426195)a
+![image](https://github.com/user-attachments/assets/36e9d983-3ae6-4c83-b3e8-c87b3e426195)
